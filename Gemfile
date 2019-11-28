@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
-gem 'bootstrap-sass','~> 3.3.4.1'
+gem 'bootstrap-sass','~> 3.4.1'
 gem 'autoprefixer-rails','6.7.7.2'
 gem 'devise'
 gem 'sqlite3'
